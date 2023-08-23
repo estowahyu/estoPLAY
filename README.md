@@ -1,4 +1,5 @@
-# estoPLAY
+# estoPLAY 
+#EXTM3U
 <================== Premium Movies ====================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
